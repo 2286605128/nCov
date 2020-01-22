@@ -2,7 +2,7 @@
 
 - Confirmed: `441`
 - Dead: `9`
-- Suspectious: `11`,
+- Suspectious: `11`
 - Cured: `25`
 
 ![Image](https://img1.dxycdn.com/2020/0122/505/3392286239112868866-73.jpg)

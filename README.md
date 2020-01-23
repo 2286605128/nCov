@@ -1,8 +1,9 @@
-# nCov virus data update(Not official, all the data is collected from internet)
+# 2019-nCoV virus data update
+> **Not official, all the data is collected from internet**
 
-- Confirmed: `616`
-- Dead: `17`
-- Suspectious: `395`
+- Confirmed: `617`
+- Potential: `427`
+- Died: `17`
 - Cured: `28`
 
 ![Image](https://img1.dxycdn.com/2020/0123/415/3392507170083204479-73.jpg)

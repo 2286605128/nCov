@@ -1,0 +1,20 @@
+{
+    "history": [
+        {
+            "timestamp":"",
+            "location":"",
+            "total":{
+                "confirmed":0,
+                "potencial":0,
+                "died":0,
+                "cured":0
+            },
+            "new":{
+                "confirmed":0,
+                "potencial":0,
+                "died":0,
+                "cured":0
+            }
+        }
+    ]
+}
